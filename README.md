@@ -1,4 +1,4 @@
-# Hawkathon
+# Tether
 This is my first commit
 
 
