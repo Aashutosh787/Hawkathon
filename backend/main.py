@@ -50,6 +50,7 @@ from report_router import router as report_router
 from jobs_router import router as jobs_router
 from outreach_router import router as outreach_router
 from contacts_router import router as contacts_router
+from automator_router import router as automator_router
 from security import (
     limiter,
     sanitize_field,
@@ -184,6 +185,7 @@ app.include_router(report_router)
 app.include_router(jobs_router)
 app.include_router(outreach_router)
 app.include_router(contacts_router)
+app.include_router(automator_router)
 
 
 @app.get("/health")
