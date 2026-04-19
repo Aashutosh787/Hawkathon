@@ -17,7 +17,7 @@ import os
 from dotenv import load_dotenv
 
 # Load .env before any other module reads os.environ
-load_dotenv()
+load_dotenv(dotenv_path=os.path.join(os.path.dirname(__file__), '.env'))
 
 # ---------------------------------------------------------------------------
 # Startup guard — fail loudly if the API key is missing so the error is
