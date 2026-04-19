@@ -1,0 +1,664 @@
+[
+  {
+    "id": "lumen-technologies",
+    "name": "Lumen Technologies (CenturyLink)",
+    "industry": "tech",
+    "location": "Monroe, LA",
+    "employee_count_range": "large (500+)",
+    "typical_roles": [
+      "Network Engineer",
+      "Software Developer",
+      "Data Analyst",
+      "Project Manager",
+      "Sales Engineer"
+    ],
+    "salary_range_usd": { "entry": 50000, "mid": 78000, "senior": 112000 },
+    "hiring_likelihood": "medium",
+    "skills_valued": [
+      "IP networking / BGP / MPLS",
+      "Python or Java",
+      "SQL and data pipelines",
+      "Agile / JIRA",
+      "Fiber optic fundamentals"
+    ],
+    "why_stay": "Global telecom HQ right in Monroe means ULM CS and business grads can access Fortune-500 career tracks without leaving home.",
+    "website": "https://www.lumen.com"
+  },
+  {
+    "id": "graphic-packaging-west-monroe",
+    "name": "Graphic Packaging International",
+    "industry": "manufacturing",
+    "location": "West Monroe, LA",
+    "employee_count_range": "large (500+)",
+    "typical_roles": [
+      "Process Engineer",
+      "Quality Control Technician",
+      "Maintenance Technician",
+      "Production Supervisor",
+      "EHS Coordinator"
+    ],
+    "salary_range_usd": { "entry": 42000, "mid": 63000, "senior": 90000 },
+    "hiring_likelihood": "medium",
+    "skills_valued": [
+      "Lean / Six Sigma",
+      "PLC programming",
+      "AutoCAD or SolidWorks",
+      "OSHA / safety compliance",
+      "Statistical process control"
+    ],
+    "why_stay": "One of the largest employers in Ouachita Parish, offering shift-premium pay and tuition reimbursement that reward BPCC technical graduates immediately.",
+    "website": "https://www.graphicpkg.com"
+  },
+  {
+    "id": "st-francis-medical-center",
+    "name": "St. Francis Medical Center",
+    "industry": "healthcare",
+    "location": "Monroe, LA",
+    "employee_count_range": "large (500+)",
+    "typical_roles": [
+      "Registered Nurse",
+      "Medical Laboratory Technologist",
+      "Physical Therapist",
+      "Radiology Technician",
+      "Healthcare Administrator"
+    ],
+    "salary_range_usd": { "entry": 38000, "mid": 62000, "senior": 92000 },
+    "hiring_likelihood": "high",
+    "skills_valued": [
+      "BLS / ACLS certification",
+      "Epic EHR",
+      "Clinical documentation",
+      "Patient assessment",
+      "HIPAA compliance"
+    ],
+    "why_stay": "As a Trinity Health affiliate with consistent Census demand, St. Francis is a near-guaranteed landing pad for ULM nursing and allied-health graduates seeking immediate full-time placement.",
+    "website": "https://www.stfran.com"
+  },
+  {
+    "id": "ochsner-lsu-health-monroe",
+    "name": "Ochsner LSU Health Monroe",
+    "industry": "healthcare",
+    "location": "Monroe, LA",
+    "employee_count_range": "large (500+)",
+    "typical_roles": [
+      "Registered Nurse",
+      "Nurse Practitioner",
+      "Medical Researcher",
+      "Healthcare IT Analyst",
+      "Physician"
+    ],
+    "salary_range_usd": { "entry": 40000, "mid": 68000, "senior": 105000 },
+    "hiring_likelihood": "high",
+    "skills_valued": [
+      "Epic / Cerner EHR",
+      "Clinical research protocols",
+      "Louisiana RN or NP licensure",
+      "Telehealth platforms",
+      "Quality improvement (CQI)"
+    ],
+    "why_stay": "The Ochsner-LSU academic partnership means local clinicians gain access to research opportunities and system-wide advancement normally reserved for Baton Rouge or New Orleans.",
+    "website": "https://www.ochsner.org/locations/ochsner-lsu-health-shreveport-monroe"
+  },
+  {
+    "id": "ibm-monroe-cic",
+    "name": "IBM Monroe Client Innovation Center",
+    "industry": "tech",
+    "location": "Monroe, LA",
+    "employee_count_range": "medium (50-500)",
+    "typical_roles": [
+      "Software Developer",
+      "Cloud Engineer",
+      "Business Analyst",
+      "DevOps Engineer",
+      "IT Consultant"
+    ],
+    "salary_range_usd": { "entry": 52000, "mid": 82000, "senior": 118000 },
+    "hiring_likelihood": "medium",
+    "skills_valued": [
+      "Java or Python",
+      "AWS / Azure / IBM Cloud",
+      "Agile / Scrum",
+      "SQL and NoSQL databases",
+      "CI/CD pipelines"
+    ],
+    "why_stay": "IBM's CIC model is specifically designed to hire local talent and keep it local, giving ULM computer science grads enterprise consulting experience without relocating to a major city.",
+    "website": "https://www.ibm.com/us-en/employment/newcollar/client-innovation-centers.html"
+  },
+  {
+    "id": "louisiana-delta-community-college",
+    "name": "Louisiana Delta Community College",
+    "industry": "education",
+    "location": "Monroe, LA",
+    "employee_count_range": "medium (50-500)",
+    "typical_roles": [
+      "Adjunct or Full-Time Instructor",
+      "Academic Advisor",
+      "IT Support Specialist",
+      "Administrative Coordinator",
+      "Workforce Development Director"
+    ],
+    "salary_range_usd": { "entry": 32000, "mid": 48000, "senior": 68000 },
+    "hiring_likelihood": "low",
+    "skills_valued": [
+      "Curriculum development",
+      "Canvas / Blackboard LMS",
+      "Student success coaching",
+      "Grant writing",
+      "Microsoft 365"
+    ],
+    "why_stay": "LDCC's strong workforce-development mission creates openings for BPCC and ULM graduates who want to shape vocational pathways in their own community.",
+    "website": "https://www.ladelta.edu"
+  },
+  {
+    "id": "university-of-louisiana-monroe",
+    "name": "University of Louisiana Monroe",
+    "industry": "education",
+    "location": "Monroe, LA",
+    "employee_count_range": "large (500+)",
+    "typical_roles": [
+      "Faculty / Lecturer",
+      "Pharmacist (School of Pharmacy)",
+      "Research Coordinator",
+      "IT Administrator",
+      "Student Services Advisor"
+    ],
+    "salary_range_usd": { "entry": 35000, "mid": 57000, "senior": 90000 },
+    "hiring_likelihood": "medium",
+    "skills_valued": [
+      "Academic research and publishing",
+      "PharmD or RN licensure (for clinical roles)",
+      "Banner ERP or similar SIS",
+      "Grant administration",
+      "Data analysis (R or SPSS)"
+    ],
+    "why_stay": "ULM alumni who return as staff or adjuncts benefit from tuition waivers for graduate programs and a tight-knit professional network concentrated in northeast Louisiana.",
+    "website": "https://www.ulm.edu"
+  },
+  {
+    "id": "lumen-field-operations",
+    "name": "Lumen Technologies — Field Operations (CenturyLink Field Ops)",
+    "industry": "logistics",
+    "location": "Monroe, LA",
+    "employee_count_range": "large (500+)",
+    "typical_roles": [
+      "Field Technician",
+      "Network Splicing Technician",
+      "Cable Installer",
+      "Fleet & Logistics Coordinator",
+      "Outside Plant Engineer"
+    ],
+    "salary_range_usd": { "entry": 38000, "mid": 56000, "senior": 76000 },
+    "hiring_likelihood": "medium",
+    "skills_valued": [
+      "Fiber optic splicing (OTDR)",
+      "Telecommunications infrastructure",
+      "CDL Class A or B",
+      "OSHA 10 / electrical safety",
+      "GIS / network mapping tools"
+    ],
+    "why_stay": "Field ops roles carry union-negotiated wage scales and a clear technician-to-engineer pathway for BPCC electronics or telecommunications graduates without requiring relocation.",
+    "website": "https://www.lumen.com/en-us/about/careers.html"
+  },
+  {
+    "id": "vantage-health-plan",
+    "name": "Vantage Health Plan",
+    "industry": "healthcare",
+    "location": "Monroe, LA",
+    "employee_count_range": "medium (50-500)",
+    "typical_roles": [
+      "Care Coordinator",
+      "Claims Analyst",
+      "Member Services Representative",
+      "Utilization Management Nurse",
+      "Compliance Officer"
+    ],
+    "salary_range_usd": { "entry": 36000, "mid": 57000, "senior": 82000 },
+    "hiring_likelihood": "medium",
+    "skills_valued": [
+      "Medicaid / Medicare managed care",
+      "ICD-10 and CPT coding",
+      "Case management (CCM credential a plus)",
+      "Microsoft Excel / Power BI",
+      "Regulatory compliance (CMS)"
+    ],
+    "why_stay": "As a locally-owned Louisiana HMO, Vantage is one of the few places in the region where health-administration and nursing grads can build a payer-side career without leaving Monroe.",
+    "website": "https://www.vantagehealthplan.com"
+  },
+  {
+    "id": "jpmorgan-chase-monroe",
+    "name": "JPMorgan Chase — Monroe Branch Network",
+    "industry": "finance",
+    "location": "Monroe, LA",
+    "employee_count_range": "small (<50)",
+    "typical_roles": [
+      "Personal Banker",
+      "Branch Manager",
+      "Business Banker",
+      "Financial Advisor",
+      "Teller / Client Associate"
+    ],
+    "salary_range_usd": { "entry": 37000, "mid": 58000, "senior": 88000 },
+    "hiring_likelihood": "low",
+    "skills_valued": [
+      "Financial products (deposits, lending, investments)",
+      "FINRA Series 6 / 63 licenses",
+      "Salesforce CRM",
+      "Regulatory compliance (BSA/AML)",
+      "Customer relationship management"
+    ],
+    "why_stay": "A Chase branch role in Monroe is a credentialed entry point into JPMorgan's internal transfer network, letting ULM business grads build toward corporate finance roles over time.",
+    "website": "https://www.jpmorganchase.com/careers"
+  },
+
+  {
+    "id": "concentra-monroe",
+    "name": "Concentra Occupational Health (Monroe)",
+    "industry": "healthcare",
+    "location": "Monroe, LA",
+    "employee_count_range": "small (<50)",
+    "typical_roles": [
+      "Medical Assistant",
+      "Occupational Medicine Physician",
+      "Physical Therapist",
+      "Nurse Practitioner",
+      "X-Ray Technician"
+    ],
+    "salary_range_usd": { "entry": 32000, "mid": 65000, "senior": 105000 },
+    "hiring_likelihood": "medium",
+    "skills_valued": [
+      "Workers' compensation documentation",
+      "OSHA regulations",
+      "Basic life support (BLS)",
+      "Medical charting (EMR)",
+      "Drug screening / DOT physicals"
+    ],
+    "why_stay": "With occupational health clinics serving Monroe's industrial employers, Concentra gives ULM PA and PT graduates a volume of workers' comp cases that builds a specialized clinical portfolio fast.",
+    "website": "https://www.concentra.com",
+    "needs_verification": true,
+    "verification_note": "Concentra operates 500+ US locations; Monroe presence should be confirmed at concentra.com/find-a-center before using in production."
+  },
+
+  {
+    "id": "amedisys-monroe",
+    "name": "Amedisys Home Health (Monroe)",
+    "industry": "healthcare",
+    "location": "Monroe, LA",
+    "employee_count_range": "small (<50)",
+    "typical_roles": [
+      "Home Health RN",
+      "Physical Therapist",
+      "Occupational Therapist",
+      "Home Health Aide",
+      "Clinical Manager"
+    ],
+    "salary_range_usd": { "entry": 38000, "mid": 62000, "senior": 86000 },
+    "hiring_likelihood": "high",
+    "skills_valued": [
+      "OASIS outcome assessments",
+      "Homecare Homebase documentation",
+      "Wound care / wound vac therapy",
+      "Medicare/Medicaid home health CoPs",
+      "Case load self-management"
+    ],
+    "why_stay": "As one of the nation's largest home health companies with a Monroe footprint, Amedisys lets BPCC and ULM nursing grads build autonomous case-management skills and earn scheduling flexibility rarely available on hospital floors.",
+    "website": "https://www.amedisys.com"
+  },
+
+  {
+    "id": "fresenius-kidney-care-monroe",
+    "name": "Fresenius Kidney Care (Monroe)",
+    "industry": "healthcare",
+    "location": "Monroe, LA",
+    "employee_count_range": "small (<50)",
+    "typical_roles": [
+      "Patient Care Technician",
+      "Dialysis RN",
+      "Biomedical Technician",
+      "Social Worker",
+      "Clinic Manager"
+    ],
+    "salary_range_usd": { "entry": 33000, "mid": 58000, "senior": 82000 },
+    "hiring_likelihood": "high",
+    "skills_valued": [
+      "Hemodialysis machine operation",
+      "Vascular access care (AV fistula and graft)",
+      "Water treatment / dialysate preparation",
+      "ESRD patient education",
+      "CMS ESRD regulatory compliance"
+    ],
+    "why_stay": "Fresenius's structured PCT-to-RN training pipeline is one of the clearest entry-to-specialist paths in Monroe healthcare for BPCC patient care graduates who want to earn licensure while working.",
+    "website": "https://www.freseniuskidneycare.com",
+    "needs_verification": true,
+    "verification_note": "Fresenius operates 2,600+ US clinics; Louisiana presence is well documented but specific Monroe clinic should be confirmed at freseniuskidneycare.com/find-a-clinic."
+  },
+
+  {
+    "id": "entergy-louisiana-monroe",
+    "name": "Entergy Louisiana (Monroe Division)",
+    "industry": "energy",
+    "location": "Monroe, LA",
+    "employee_count_range": "medium (50-500)",
+    "typical_roles": [
+      "Electrical Engineer",
+      "Line Technician (Journeyman Lineman)",
+      "SCADA Operations Technician",
+      "Meter Technician",
+      "Customer Service Representative"
+    ],
+    "salary_range_usd": { "entry": 46000, "mid": 74000, "senior": 108000 },
+    "hiring_likelihood": "medium",
+    "skills_valued": [
+      "Power systems (transmission and distribution)",
+      "SCADA / energy management systems",
+      "NFPA 70E electrical safety",
+      "ArcGIS / ESRI network mapping",
+      "IBEW apprenticeship or lineman certification"
+    ],
+    "why_stay": "Entergy's Monroe division manages transmission and distribution for all of northeast Louisiana, giving ULM electrical engineering graduates utility-scale project experience inside a Fortune-500 energy employer headquartered in New Orleans.",
+    "website": "https://www.entergy-louisiana.com"
+  },
+
+  {
+    "id": "atmos-energy-monroe",
+    "name": "Atmos Energy (North Louisiana Division)",
+    "industry": "energy",
+    "location": "Monroe, LA",
+    "employee_count_range": "small (<50)",
+    "typical_roles": [
+      "Gas Service Technician",
+      "Pipeline Integrity Engineer",
+      "Safety and Compliance Inspector",
+      "Operations Supervisor",
+      "Customer Service Representative"
+    ],
+    "salary_range_usd": { "entry": 42000, "mid": 67000, "senior": 95000 },
+    "hiring_likelihood": "low",
+    "skills_valued": [
+      "Natural gas distribution systems",
+      "Pipeline integrity (PHMSA 49 CFR Part 192)",
+      "Leak detection (CGI / combustible gas indicator)",
+      "CDL Class B",
+      "GIS pipeline mapping"
+    ],
+    "why_stay": "Atmos Energy's north Louisiana territory runs through Ouachita Parish, giving BPCC and ULM graduates in energy, mechanical, or environmental fields direct access to pipeline infrastructure careers close to home.",
+    "website": "https://www.atmosenergy.com",
+    "needs_verification": true,
+    "verification_note": "Atmos Energy serves parts of north Louisiana; confirm Monroe-specific service territory and hiring presence at atmosenergy.com or by calling the Monroe area customer service line."
+  },
+
+  {
+    "id": "louisiana-farm-bureau-ouachita",
+    "name": "Louisiana Farm Bureau (Ouachita Parish office)",
+    "industry": "agriculture",
+    "location": "Monroe, LA",
+    "employee_count_range": "small (<50)",
+    "typical_roles": [
+      "Insurance Agent (crop and property)",
+      "Agricultural Loan Officer",
+      "Member Services Coordinator",
+      "Policy and Advocacy Specialist",
+      "Claims Adjuster"
+    ],
+    "salary_range_usd": { "entry": 34000, "mid": 52000, "senior": 72000 },
+    "hiring_likelihood": "low",
+    "skills_valued": [
+      "Multi-Peril Crop Insurance (MPCI) products",
+      "USDA FSA program knowledge",
+      "Agricultural lending basics",
+      "Customer relationship management",
+      "Louisiana property and casualty license"
+    ],
+    "why_stay": "As the voice of Ouachita Parish agriculture, Farm Bureau gives ULM agricultural science and business grads immediate client responsibility serving the farmers and agribusinesses that form the backbone of the local economy.",
+    "website": "https://www.lafb.org"
+  },
+
+  {
+    "id": "helena-agri-enterprises-monroe",
+    "name": "Helena Agri-Enterprises (Monroe area)",
+    "industry": "agriculture",
+    "location": "Monroe, LA",
+    "employee_count_range": "small (<50)",
+    "typical_roles": [
+      "Agronomist / Crop Consultant",
+      "Territory Sales Representative",
+      "Warehouse and Logistics Coordinator",
+      "Precision Ag Specialist",
+      "Branch Manager"
+    ],
+    "salary_range_usd": { "entry": 38000, "mid": 58000, "senior": 85000 },
+    "hiring_likelihood": "medium",
+    "skills_valued": [
+      "Agronomy / soil science",
+      "Louisiana Commercial Pesticide Applicator license",
+      "Precision agriculture (John Deere Ops Center, Climate FieldView)",
+      "Soil sampling and tissue analysis",
+      "CRM-based territory sales management"
+    ],
+    "why_stay": "Helena's role as a primary crop-input distributor in northeast Louisiana means ULM agronomy and agricultural business graduates can carry a sales territory covering their home region from day one.",
+    "website": "https://www.helenaagri.com",
+    "needs_verification": true,
+    "verification_note": "Helena Agri-Enterprises (HELM Financial subsidiary) has widespread north Louisiana operations; confirm Monroe branch at helenaagri.com/locations or by calling their south-central region office."
+  },
+
+  {
+    "id": "postlethwaite-netterville-monroe",
+    "name": "Postlethwaite & Netterville (Monroe office)",
+    "industry": "finance",
+    "location": "Monroe, LA",
+    "employee_count_range": "small (<50)",
+    "typical_roles": [
+      "Staff Accountant",
+      "Senior Auditor",
+      "Tax Associate",
+      "IT Auditor",
+      "Manager / Director"
+    ],
+    "salary_range_usd": { "entry": 48000, "mid": 72000, "senior": 108000 },
+    "hiring_likelihood": "medium",
+    "skills_valued": [
+      "GAAP and governmental accounting (GASB)",
+      "CPA exam track (Louisiana 150-hour requirement)",
+      "QuickBooks / Sage / CCH ProSystem fx",
+      "Single Audit / Yellow Book (GAGAS) standards",
+      "Individual and business tax preparation"
+    ],
+    "why_stay": "P&N's Louisiana roots and public-sector audit specialty mean ULM accounting graduates work on parish governments, school boards, and nonprofits they already know — building a CPA portfolio that is locally relevant from day one.",
+    "website": "https://www.pncpa.com",
+    "needs_verification": true,
+    "verification_note": "Postlethwaite & Netterville is a major Louisiana CPA firm (Baton Rouge HQ); confirm Monroe office at pncpa.com/about or by calling their main line — they may serve Monroe from a Shreveport or Baton Rouge hub."
+  },
+
+  {
+    "id": "regions-bank-monroe",
+    "name": "Regions Bank (Monroe branches)",
+    "industry": "finance",
+    "location": "Monroe, LA",
+    "employee_count_range": "medium (50-500)",
+    "typical_roles": [
+      "Personal Banker",
+      "Branch Manager",
+      "Mortgage Loan Officer",
+      "Business Development Officer",
+      "Teller / Client Associate"
+    ],
+    "salary_range_usd": { "entry": 35000, "mid": 55000, "senior": 88000 },
+    "hiring_likelihood": "low",
+    "skills_valued": [
+      "Consumer and commercial lending",
+      "NMLS licensing (for mortgage origination)",
+      "Salesforce CRM",
+      "BSA / AML compliance",
+      "Financial planning fundamentals (Series 6 or 65 a plus)"
+    ],
+    "why_stay": "Regions' Monroe branches serve both retail and commercial clients across northeast Louisiana, giving ULM finance graduates broad cross-selling experience with an internal transfer path into corporate banking and wealth management.",
+    "website": "https://www.regions.com"
+  },
+
+  {
+    "id": "neel-schaffer-monroe",
+    "name": "Neel-Schaffer, Inc. (Monroe office)",
+    "industry": "tech",
+    "location": "Monroe, LA",
+    "employee_count_range": "small (<50)",
+    "typical_roles": [
+      "Civil / Transportation Engineer (EIT)",
+      "Environmental Engineer",
+      "Construction Inspector",
+      "Survey Technician",
+      "Project Manager (PE)"
+    ],
+    "salary_range_usd": { "entry": 52000, "mid": 78000, "senior": 108000 },
+    "hiring_likelihood": "medium",
+    "skills_valued": [
+      "AutoCAD Civil 3D / MicroStation",
+      "LA DOTD project delivery process",
+      "Stormwater and drainage design (HEC-RAS)",
+      "FE exam track toward PE licensure",
+      "FEMA floodplain mapping familiarity"
+    ],
+    "why_stay": "Neel-Schaffer's DOTD and municipal contracts throughout northeast Louisiana mean ULM civil engineering graduates design roads, bridges, and drainage systems they will literally drive on — making local impact tangible.",
+    "website": "https://www.neel-schaffer.com",
+    "needs_verification": true,
+    "verification_note": "Neel-Schaffer is a regional engineering firm (Ridgeland, MS HQ) with documented Louisiana offices; confirm Monroe specifically at neel-schaffer.com/offices — they may operate from a Shreveport satellite."
+  },
+
+  {
+    "id": "turner-industries-monroe",
+    "name": "Turner Industries Group (Monroe-area operations)",
+    "industry": "manufacturing",
+    "location": "Monroe, LA",
+    "employee_count_range": "large (500+)",
+    "typical_roles": [
+      "Project Manager",
+      "Mechanical / Piping Superintendent",
+      "Industrial Pipefitter",
+      "Structural Welder (ASME / AWS)",
+      "Safety Manager (CSP)"
+    ],
+    "salary_range_usd": { "entry": 42000, "mid": 65000, "senior": 98000 },
+    "hiring_likelihood": "medium",
+    "skills_valued": [
+      "Industrial construction and plant maintenance",
+      "NCCER craft certification",
+      "Rigging and crane operations (NCCCO)",
+      "Primavera P6 scheduling",
+      "OSHA 30-Hour General Industry"
+    ],
+    "why_stay": "Turner Industries' industrial construction and maintenance contracts flow through a Monroe-area labor pool, giving BPCC process technology and ULM engineering graduates Gulf-Coast-level industrial pay without leaving the region.",
+    "website": "https://www.turner-industries.com",
+    "needs_verification": true,
+    "verification_note": "Turner Industries is headquartered in Baton Rouge and is project-based; confirm active Monroe-area office or current project presence at turner-industries.com or via LinkedIn recruiter search."
+  },
+
+  {
+    "id": "walmart-dc-monroe",
+    "name": "Walmart Distribution Center (Monroe)",
+    "industry": "logistics",
+    "location": "Monroe, LA",
+    "employee_count_range": "large (500+)",
+    "typical_roles": [
+      "Distribution Associate",
+      "Forklift Operator",
+      "Inventory Control Specialist",
+      "Shift Supervisor",
+      "Maintenance Technician"
+    ],
+    "salary_range_usd": { "entry": 36000, "mid": 52000, "senior": 72000 },
+    "hiring_likelihood": "high",
+    "skills_valued": [
+      "Warehouse Management Systems (WMS)",
+      "OSHA-compliant forklift operation",
+      "RF scanner and barcode systems",
+      "Inventory accuracy and cycle counting",
+      "Supply chain fundamentals"
+    ],
+    "why_stay": "The Monroe DC anchors Walmart's northwest Louisiana supply chain and offers BPCC logistics graduates immediate supervisory tracks and tuition assistance inside one of the world's largest retail distribution networks.",
+    "website": "https://careers.walmart.com",
+    "needs_verification": true,
+    "verification_note": "User specifically asked to verify — confirm Walmart distribution center in Monroe, LA at walmart.com/cp/distribution-centers or search 'Walmart DC Monroe LA' on LinkedIn Jobs."
+  },
+
+  {
+    "id": "dollar-tree-dc-monroe",
+    "name": "Dollar Tree Distribution Center (Monroe)",
+    "industry": "logistics",
+    "location": "Monroe, LA",
+    "employee_count_range": "large (500+)",
+    "typical_roles": [
+      "Distribution Associate",
+      "Loader / Unloader",
+      "Inventory Specialist",
+      "Operations Supervisor",
+      "Maintenance Technician"
+    ],
+    "salary_range_usd": { "entry": 33000, "mid": 48000, "senior": 68000 },
+    "hiring_likelihood": "high",
+    "skills_valued": [
+      "Reach truck and pallet jack operation",
+      "Pick-pack-ship and barcode scanning",
+      "Inventory accuracy",
+      "OSHA 10 General Industry",
+      "Shift production metrics"
+    ],
+    "why_stay": "Dollar Tree's Monroe distribution campus offers BPCC supply-chain and operations graduates a fast-promotion environment and consistent scheduling uncommon in retail distribution.",
+    "website": "https://www.dollartreecareers.com",
+    "needs_verification": true,
+    "verification_note": "Dollar Tree operates DCs across the Southeast; confirm Monroe, LA facility specifically via dollartreecareers.com or search 'Dollar Tree distribution center Monroe LA'."
+  },
+
+  {
+    "id": "teksystems-monroe",
+    "name": "TEKsystems (Monroe)",
+    "industry": "tech",
+    "location": "Monroe, LA",
+    "employee_count_range": "small (<50)",
+    "typical_roles": [
+      "IT Recruiter / Talent Acquisition",
+      "Technical Account Manager",
+      "Network Support Specialist (placed contractor)",
+      "Software Developer (placed contractor)",
+      "IT Staffing Consultant"
+    ],
+    "salary_range_usd": { "entry": 42000, "mid": 62000, "senior": 90000 },
+    "hiring_likelihood": "medium",
+    "skills_valued": [
+      "Technical recruiting and candidate sourcing",
+      "Client relationship management",
+      "IT infrastructure fundamentals (CompTIA A+ / Network+)",
+      "ATS platforms (Bullhorn or equivalent)",
+      "Contract and rate negotiation basics"
+    ],
+    "why_stay": "TEKsystems' Monroe practice — placing contractors at IBM, Lumen, and regional healthcare IT projects — gives ULM computer science graduates a multi-client portfolio that builds breadth faster than a single enterprise IT role.",
+    "website": "https://www.teksystems.com",
+    "needs_verification": true,
+    "verification_note": "TEKsystems operates nationally; confirm a Monroe branch or active recruiter coverage at teksystems.com or search 'TEKsystems Monroe LA' on LinkedIn — they may staff Monroe from a Shreveport office."
+  },
+
+  {
+    "id": "sts-international-monroe",
+    "name": "STS International (Monroe)",
+    "industry": "tech",
+    "location": "Monroe, LA",
+    "employee_count_range": "small (<50)",
+    "typical_roles": [
+      "Help Desk / IT Support Specialist",
+      "Network Administrator",
+      "Systems Engineer",
+      "IT Project Manager",
+      "Cybersecurity Analyst"
+    ],
+    "salary_range_usd": { "entry": 40000, "mid": 62000, "senior": 88000 },
+    "hiring_likelihood": "medium",
+    "skills_valued": [
+      "Microsoft 365 / Azure AD administration",
+      "Network troubleshooting (Cisco / Meraki)",
+      "CompTIA Security+ or equivalent",
+      "Managed service ticketing (ConnectWise or Autotask)",
+      "SMB client relationship management"
+    ],
+    "why_stay": "As a regional managed-service provider serving Monroe's small and mid-size business market, STS International offers BPCC and ULM IT graduates client-facing project variety that a large enterprise IT department cannot match.",
+    "website": "https://www.stsinternational.com",
+    "needs_verification": true,
+    "verification_note": "NEEDS STRONG VERIFICATION — 'STS International' is a common name; search LinkedIn for IT MSPs headquartered in Monroe, LA to find the correct firm or a suitable local equivalent before using."
+  }
+]

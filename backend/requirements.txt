@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pypdf
+anthropic
+pydantic
+slowapi
+python-dotenv
+python-jobspy

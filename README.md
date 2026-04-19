@@ -1,8 +1,12 @@
 # Tether
+
 This is my first commit
 
 
 # AI driven job finder
+
+
+Tether is a hyper-local career agent built for Monroe, Louisiana — matching ULM and BPCC graduates with real employers in the Ouachita Parish region so they can build careers without leaving home. It combines curated employer data, skills-gap analysis, and AI-driven guidance to surface the right opportunity for each candidate based on their degree, skill set, and salary expectations. Unlike generic job boards, Tether is opinionated: it knows the local market, speaks the language of northeast Louisiana industries, and keeps its recommendations anchored to employers who are actually hiring here.
 
 Today marks the kickoff of our hackathon project focused on building an AI-driven job finder.
 
